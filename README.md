@@ -9,7 +9,7 @@ This proposal is submitted in response to the NSF Engine initiative, aiming to d
 - **Mainstay** (Lead: Kelly Massad) - Limited Partner
 - **TCU & SMU** (Leads: Ed Ipser, Kelly Slaughter; Blockchain Dept Dean) - Limited Partners
 - **National Disaster Foundation (NDF)** (Leads: Kevin Jackson, Eric Adolphe) - Limited Partner
-- **Pioneer Chain Network (PCN)** (Lead: Jeff Gaus) - Limited Partner
+- **Provenance Chain Network (PCN)** (Lead: Jeff Gaus) - Limited Partner
 - **SIMBA Chain** (Lead: Jaser Akuly) - Limited Partner
 - **FWTX DAO & DTX DAO** (Leads: Denis O’Neil, Michael Lewellen) - Limited Partners
 - **Blockchain Academy** - Limited Partner
@@ -34,6 +34,13 @@ Total Budget: $15 million over 5 years
 - **Year 1-2**: Setup and initial development, $5 million.
 - **Year 3-5**: Expansion and sustainability, $10 million.
 Funds will be managed through a Base L2 safe wallet and disbursed via Coinbase in USDC to ensure transparency and accountability.
+
+### Budget Breakdown TBD
+- IT / R&D
+- Marketing / PR
+- Business Development
+- Legal / Tax
+- Education / Community Support
 
 ## Evaluation and Sustainability
 The project will implement a comprehensive evaluation framework to assess the impact on economic activity, job creation, and community health improvements. Sustainability will be ensured through local partnerships and integration of project outputs into regional planning efforts.
