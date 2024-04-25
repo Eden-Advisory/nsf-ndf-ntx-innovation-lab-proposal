@@ -8,10 +8,10 @@ This proposal is submitted in response to the NSF Engine initiative, aiming to d
 - **Eden Advisory** (Lead: Tobalo Torres) - General Partner
 - **Mainstay** (Lead: Kelly Massad) - Limited Partner
 - **TCU & SMU** (Leads: Ed Ipser, Kelly Slaughter; Blockchain Dept Dean) - Limited Partners
-- **National Disaster Foundation (NDF)** (Leads: Kevin Jackson, Eric Adolphe) - Limited Partner
+- **National DigiFoundry (NDF)** (Leads: Kevin Jackson, Eric Adolphe) - Limited Partner
 - **Provenance Chain Network (PCN)** (Lead: Jeff Gaus) - Limited Partner
 - **SIMBA Chain** (Lead: Jaser Akuly) - Limited Partner
-- **FWTX DAO & DTX DAO** (Leads: Denis O’Neil, Michael Lewellen) - Limited Partners
+- **Fort Worth DAO & Dallas DAO** (Leads: Denis O’Neil, Michael Lewellen) - Limited Partners
 - **Blockchain Academy** - Limited Partner
 
 ## Project Focus and Goals
