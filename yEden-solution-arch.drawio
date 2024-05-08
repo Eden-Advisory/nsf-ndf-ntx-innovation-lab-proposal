@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T15:09:51.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MLZKxPz-OzLcyEt8Q5yO" version="24.3.1" type="github" pages="3">
+  <diagram name="v1_edenOS" id="1c8ImZf5gBv48MTMlwD5">
+    <mxGraphModel dx="1865" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" value="Ontology" parent="0" />
+        <mxCell id="Sg4NZe65r6HlR4_saugV-1" value="Yeetum Intelligence Platform&lt;div&gt;- Document Store&lt;/div&gt;&lt;div&gt;- YIP Datapase (Postrgres)&lt;/div&gt;&lt;div&gt;- OSINT news (si.yeetum.com)&lt;/div&gt;&lt;div&gt;- Eden Advisory&lt;/div&gt;&lt;div&gt;- Financials&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="380" width="450" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg4NZe65r6HlR4_saugV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sg4NZe65r6HlR4_saugV-3" target="Sg4NZe65r6HlR4_saugV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg4NZe65r6HlR4_saugV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sg4NZe65r6HlR4_saugV-3" target="Sg4NZe65r6HlR4_saugV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg4NZe65r6HlR4_saugV-3" value="Data Ontology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="840" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hxy_2-makYpXD2_CueZt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sg4NZe65r6HlR4_saugV-5" target="Hxy_2-makYpXD2_CueZt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg4NZe65r6HlR4_saugV-5" value="DFW Web3 Foundation&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="380" width="560" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg4NZe65r6HlR4_saugV-7" value="Fort Worth &amp;amp; Dallas DAO&lt;div&gt;- Members&lt;/div&gt;&lt;div&gt;- Workshop Assets&lt;/div&gt;&lt;div&gt;- On-Chain Presence&lt;/div&gt;&lt;div&gt;- Treasury&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="425" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Hxy_2-makYpXD2_CueZt-1" value="NTX Disaster Relief DAO&lt;div&gt;- Members&lt;/div&gt;&lt;div&gt;- Workshop Assets&lt;/div&gt;&lt;div&gt;- On-Chain Presence&lt;/div&gt;&lt;div&gt;- Treasury&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="890" y="650" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Hxy_2-makYpXD2_CueZt-5" value="Tertiary Operational Entities&lt;div&gt;- Community Culture&lt;/div&gt;&lt;div&gt;- Merchangdise&lt;/div&gt;&lt;div&gt;-Strategic Consurtiums&lt;/div&gt;&lt;div&gt;- Non-Profits&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="280" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3lR_DjZA-PKEGTgBSscy" name="Web3 SI Tooling">
+    <mxGraphModel dx="1026" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hyqrouuWMuBxxEIKmN6l-1" value="- arkhamintelligence.com&lt;div&gt;- messari&lt;/div&gt;&lt;div&gt;- palantir&lt;/div&gt;&lt;div&gt;- si.yeetum.com (Free for public)&lt;/div&gt;&lt;div&gt;- YIP&lt;/div&gt;&lt;div&gt;- etherscan.io&lt;/div&gt;&lt;div&gt;- HGTP / Metagraph&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="185" width="200" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BPFtvKGqBhkcU-wOI8hf" name="CityDAO Arch Framework">
+    <mxGraphModel dx="1026" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qaYm2W4DrM0sSUCy-JhS-1" value="CityDAO Solution Design&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IRON SPIDR and CISA Framework&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="50" width="210" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
