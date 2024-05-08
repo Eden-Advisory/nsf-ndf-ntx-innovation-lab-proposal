@@ -54,7 +54,7 @@ graph TD;
     EdenAdvisory[Eden Advisory - GP] --> Mainstay[Mainstay - LP];
     EdenAdvisory --> TCU[TCU & SMU - LP];
     EdenAdvisory --> NDF[National Disaster Foundation - LP];
-    EdenAdvisory --> PCN[Pioneer Chain Network - LP];
+    EdenAdvisory --> PCN[Provenance Chain Network - LP];
     EdenAdvisory --> SIMBA[SIMBA Chain - LP];
     EdenAdvisory --> FWTX[FWTX DAO - LP];
     EdenAdvisory --> DTX[DTX DAO - LP];
