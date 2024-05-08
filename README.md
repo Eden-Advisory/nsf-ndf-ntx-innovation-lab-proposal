@@ -36,7 +36,7 @@ Total Budget: $15 million over 5 years
 Funds will be managed through a Base L2 safe wallet and disbursed via Coinbase in USDC to ensure transparency and accountability.
 
 ### Budget Breakdown - 1m USD Framing
-- IT / R&D / Product Development & Management [50%]: 5 deep specialist staff covering - end-end architect, master principal security architect, golang (web-service technical lead), rust (hardware/firmware lead
+- IT / R&D / Product Development & Management [50%]: 5 deep specialist staff covering - end-end architect, master principal security architect, golang (web-service technical lead), rust (hardware/firmware lead, client interface lead (typscript, vite.js, astro, data-star.dev, htmx, visualizations)
 - Marketing / PR [5%] 1-2 staff focused on community management, social media, and demand generation
 - Business Development [5%]: 1 sales lead to target all of north texas SMB for technical assistance and mature commercial relationship and business model sustainability for public & private sector 
 - Legal / Tax [10%]: Retained tax attorney for matrix scoped of operation
