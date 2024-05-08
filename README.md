@@ -5,15 +5,17 @@
 This proposal is submitted in response to the NSF Engine initiative, aiming to develop a sustainable, inclusive regional innovation ecosystem. The focus is on disaster relief, community wellness, and workforce development through the integration of advanced technology and community-driven approaches.
 
 ## Collaborating Entities
-- **Eden Advisory** (Lead: Tobalo Torres) - General Partner
-- **Mainstay** (Lead: Kelly Massad) - Limited Partner
-- **TCU & SMU** (Leads: Ed Ipser, Kelly Slaughter; Blockchain Dept Dean) - Limited Partners
-- **National DigiFoundry (NDF)** (Leads: Kevin Jackson, Eric Adolphe) - Limited Partner
-- **Provenance Chain Network (PCN)** (Lead: Jeff Gaus) - Limited Partner
-- **SIMBA Chain** (Lead: Jaser Akuly) - Limited Partner
-- **Fort Worth DAO & Dallas DAO** (Leads: Denis O’Neil, Michael Lewellen) - Limited Partners
-- **Blockchain Academy** - Limited Partner
+- **Eden Advisory** (Lead: Tobalo Torres) - General Partner - Role: Syndicator & Chief Architect
+- **Mainstay** (Lead: Kelly Massad) - Limited Partner  - Role: Media Partner
+- **TCU, SMU, Dallas College, Tarrant County College, UTA** (Leads: Ed Ipser, Kelly Slaughter; Simon Mak, Amy Mackenroth) - Limited Partners - Role: Share Lab and Technology Asset Access and Talent Farming / Development
+- **National DigiFoundry (NDF)** (Leads: Kevin Jackson, Eric Adolphe) - Limited Partner - Role: National Standardization of Web3 standards mitigating selective regulatory capture and partner for progression of national cyber strategy with working groups and continued recruitment
+- **Provenance Chain Network (PCN)** (Lead: Jeff Gaus) - Limited Partner - Role: Ensure c-star supply-chain provenance and systems of evidence, systems of inference strategy and standardization
+- **SIMBA Chain** (Lead: Jaser Akuly) - Limited Partner - Role: Smart Contract Builder & Automation environment for developer ecoystem.
+- **Fort Worth DAO & Dallas DAO** (Leads: Denis O’Neil, Michael Lewellen, Mark Shut) - Limited Partners - Role: CityDAOs for continued web3 accelerant and community development
+- **Blockchain Academy** - Limited Partner - Role: Accrediation and blockchain standardization + certification for Web3 workforce
+- **Constellation Labs** - Limited Partner - Role: Source data assurance and technology partner for ensure tamper resistant, and notarized data pipelines and automation, scale.
 
+  
 ## Project Focus and Goals
 The proposal targets the following key areas:
 1. **Disaster Relief**: Develop predictive models and response systems using blockchain for effective resource allocation.
